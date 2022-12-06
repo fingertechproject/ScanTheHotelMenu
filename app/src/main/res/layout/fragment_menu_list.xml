@@ -6,17 +6,6 @@
  <androidx.constraintlayout.widget.ConstraintLayout
      android:layout_width="match_parent"
      android:layout_height="match_parent">
-     <include
-         android:id="@+id/layoutHeader"
-         android:layout_width="match_parent"
-         android:layout_height="wrap_content"
-         app:layout_constraintStart_toStartOf="parent"
-         app:layout_constraintEnd_toEndOf="parent"
-         app:layout_constraintTop_toTopOf="parent"
-         android:layout_margin="10dp"
-         layout="@layout/layout_header"
-         />
-
      <androidx.recyclerview.widget.RecyclerView
          android:id="@+id/rv_menuList"
          android:layout_width="0dp"
@@ -24,7 +13,8 @@
          android:layout_margin="10dp"
          app:layout_constraintStart_toStartOf="parent"
          app:layout_constraintEnd_toEndOf="parent"
-         app:layout_constraintTop_toBottomOf="@id/layoutHeader"
+         app:layout_constraintTop_toTopOf="parent"
+         tools:listitem="@layout/food_item"
          app:layout_constraintBottom_toBottomOf="parent"/>
  </androidx.constraintlayout.widget.ConstraintLayout>
 

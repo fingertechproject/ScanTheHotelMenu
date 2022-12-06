@@ -3,9 +3,13 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/food_item.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/fragment_history.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/fragment_item_details.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/fragment_menu_list.xml" value="0.17552083333333332" />
         <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/layout/layout_header.xml" value="0.17552083333333332" />
+        <entry key="..\:/Users/khalid/AndroidStudioProjects/ScanTheHotelMenu/app/src/main/res/menu/bottom_nav.xml" value="0.17552083333333332" />
       </map>
     </option>
   </component>
